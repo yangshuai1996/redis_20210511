@@ -14,4 +14,5 @@ public class Constants {
 
     public  static final String REBLOOM="rebloom:uid:";
 
+    public static final String XXL_JOB="xxl-job";
 }
