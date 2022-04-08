@@ -19,4 +19,8 @@ public class Constants {
     public void test02(){
         System.out.println("这是test02方法 master分支");
     }
+
+    public void test01(){
+        System.out.println("这是在dev分支提交的");
+    }
 }
