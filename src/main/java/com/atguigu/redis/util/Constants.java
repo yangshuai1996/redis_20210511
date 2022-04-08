@@ -15,4 +15,8 @@ public class Constants {
     public  static final String REBLOOM="rebloom:uid:";
 
     public static final String XXL_JOB="xxl-job";
+
+    public void test02(){
+        System.out.println("这是test02方法 master分支");
+    }
 }
