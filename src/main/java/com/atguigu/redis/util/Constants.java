@@ -15,4 +15,8 @@ public class Constants {
     public  static final String REBLOOM="rebloom:uid:";
 
     public static final String XXL_JOB="xxl-job";
+
+    public void test01(){
+        System.out.println("这是在dev分支提交的");
+    }
 }
